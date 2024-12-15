@@ -1,0 +1,267 @@
+.App {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f4f7f9;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.info-form .form-group {
+  margin-bottom: 15px;
+}
+
+.info-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+
+.info-form input, .info-form textarea {
+  width: 100%;
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.info-form textarea {
+  height: 100px;
+}
+
+.submit-btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.submit-btn:hover {
+  background-color: #45a049;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.action-btn {
+  background-color: #008CBA;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 30%;
+}
+
+.action-btn:hover {
+  background-color: #007B8A;
+}
+
+.table-container {
+  margin-top: 30px;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.data-table th, .data-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.data-table th {
+  background-color: #f4f7f9;
+}
+
+.data-table tr:hover {
+  background-color: #f1f1f1;
+}
+
+
+
+/* General Styles */
+.App {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.submit-btn {
+  background-color: #007BFF;
+}
+
+.submit-btn:hover {
+  background-color: #0056b3;
+}
+
+.action-btn {
+  background-color: #17a2b8;
+  margin: 5px;
+}
+
+.action-btn:hover {
+  background-color: #138496;
+}
+
+.table-container {
+  margin-top: 30px;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.data-table th,
+.data-table td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+.data-table th {
+  background-color: #f4f4f4;
+}
+
+.data-table td {
+  background-color: #fff;
+}
+
+.delete-btn {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.delete-btn:hover {
+  background-color: #c0392b;
+}
+
+.delete-btn:active {
+  background-color: #b03a2e;
+}
+
+/* Hover effects for table rows */
+.data-table tr:hover {
+  background-color: #f1f1f1;
+}
+
+.data-table td {
+  font-size: 14px;
+}
+
+/* Loading Indicator */
+p {
+  text-align: center;
+  font-weight: bold;
+  color: #555;
+}
+
+
+.ap{
+  color: #b03a2e;
+  font-weight: bold;
+  text-decoration: underline;
+}
+ 
+h2{
+  text-align: center;
+  text-decoration: underline;
+
+}
+h3{
+  text-align: center;
+  text-decoration: solid;
+  text-decoration: underline;
+  color: #17a2b8;
+}
+.App{
+  background-color: #f785f5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App1 {
+  background-image: url('../public/na.jpeg');
+  background-size: cover;  
+  background-position: center;  
+  background-repeat: no-repeat;  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
+
+
+
